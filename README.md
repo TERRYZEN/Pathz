@@ -1,7 +1,10 @@
 # Pathz
 
 **Pathz** adalah aplikasi Android untuk mengompresi video menggunakan pemrosesan berbasis hardware encoder. Aplikasi ini ditulis dengan Kotlin dan Jetpack Compose.
-
+![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Version](https://img.shields.io/badge/Version-0.1.1-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square)
 - **Nama aplikasi:** Pathz
 - **Application ID:** `com.pathz.terryzen`
 - **Versi:** `1.0.0` (`versionCode` 100)
