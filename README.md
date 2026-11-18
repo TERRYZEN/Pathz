@@ -15,10 +15,10 @@
 
 **Priview Apps**
 <p align="center">
-  <img src="https://supabase.com/dashboard/project/vriaehdcmdsgisvueqas/storage/files/buckets/Pathz%20Project?preview=ss1.jpeg" alt="Pathz v1.0.0 ss1" width="320">
-  <img src="https://supabase.com/dashboard/project/vriaehdcmdsgisvueqas/storage/files/buckets/Pathz%20Project?preview=ss2.jpeg" alt="Pathz v1.0.0 ss2" width="320"
-  <img src="https://supabase.com/dashboard/project/vriaehdcmdsgisvueqas/storage/files/buckets/Pathz%20Project?preview=ss3.jpeg" alt="Pathz v1.0.0 ss3" width="320"
-  <img src="https://supabase.com/dashboard/project/vriaehdcmdsgisvueqas/storage/files/buckets/Pathz%20Project?preview=ss4.jpeg" alt="Pathz v1.0.0 ss4" width="320"
+  <img src="Screenshot/ss1.jpeg" alt="Pathz v1.0.0 ss1" width="320">
+  <img src="Screenshot/ss2.jpeg" alt="Pathz v1.0.0 ss2" width="320">
+  <img src="Screenshot/ss3.jpeg" alt="Pathz v1.0.0 ss3" width="320">
+  <img src="Screenshot/ss4.jpeg" alt="Pathz v1.0.0 ss4" width="320">
 </p>
 
 ## 🔥 Fitur v1.0.0
