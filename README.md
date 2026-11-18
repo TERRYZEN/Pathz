@@ -9,7 +9,7 @@
 - **Target SDK:** API 37
 - **Lisensi:** MIT — lihat [`LICENSE`](LICENSE)
 
-## Fitur
+## 🔥 Fitur v1.0.0
 
 Berdasarkan implementasi yang tersedia di source code:
 
@@ -25,13 +25,16 @@ Berdasarkan implementasi yang tersedia di source code:
 
 > Hasil dan pilihan codec yang tersedia dapat bergantung pada kemampuan encoder dan perangkat Android yang digunakan.
 
-## Teknologi
+## 🛠 Tech Stack & Library
 
-- Kotlin
-- Android Jetpack Compose dan Material 3
-- AndroidX Media3 Transformer
-- Gradle Kotlin DSL
-- Android SDK
+* **Language:** Kotlin
+* **Minimum SDK:** API 24 (Android 7.0)
+* **Target SDK:** API 37
+* **UI Framework:** Jetpack Compose (Material Design 3)
+* **Video Engine:** AndroidX Media3 Transformer & Effect (ClippingConfiguration untuk trimming)
+* **Concurrency:** Kotlin Coroutines & StateFlow
+* **Background Task:** Android Foreground Services
+* **Storage:** MediaStore API (Scoped Storage Compatible)
 
 ## Struktur proyek
 
